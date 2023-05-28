@@ -1,0 +1,8 @@
+prefix=/home/jdfx/room_03/devel
+
+Name: tf02_dynamic
+Description: Description of tf02_dynamic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

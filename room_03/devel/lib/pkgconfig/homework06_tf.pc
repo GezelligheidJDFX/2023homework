@@ -1,0 +1,8 @@
+prefix=/home/jdfx/room_03/devel
+
+Name: homework06_tf
+Description: Description of homework06_tf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
