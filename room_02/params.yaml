@@ -1,0 +1,16 @@
+name: xioazhang222
+radius: 0.2
+radius_param: 0.25
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_jdfx__41941: http://jdfx:41941/
+rosversion: '1.16.0
+
+  '
+run_id: 6c1649b8-e4f2-11ed-914e-ef8a1b050dc7
+type: xiaozhang
+type_param: xiaozhang
+

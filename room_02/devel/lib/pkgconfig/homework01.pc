@@ -1,0 +1,8 @@
+prefix=/home/jdfx/room_02/devel
+
+Name: homework01
+Description: Description of homework01
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

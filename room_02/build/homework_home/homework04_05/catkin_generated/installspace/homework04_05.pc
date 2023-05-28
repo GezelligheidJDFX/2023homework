@@ -1,0 +1,8 @@
+prefix=/home/jdfx/room_02/install
+
+Name: homework04_05
+Description: Description of homework04_05
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
